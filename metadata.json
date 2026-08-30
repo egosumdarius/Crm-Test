@@ -1,0 +1,6 @@
+{
+  "name": "Consultoria CRM",
+  "description": "CRM para consultoría con gestión de pipeline comercial, contactos, calendario de reuniones y sincronización con Gmail y Google Calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
